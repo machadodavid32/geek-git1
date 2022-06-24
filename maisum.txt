@@ -1,1 +1,6 @@
+mais um. + 1 + 1 +1
++ 2 +2 +2 +2   
+
+Resolvendo conflito
+
 Atualizando arquivo para gerar conflito
