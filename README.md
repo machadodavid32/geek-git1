@@ -47,4 +47,9 @@ Descrever como instalar e preparar qualquer dependência de desenvolvimento para
  ## Meta
 
  Seu nome - [@SeuTwiter](https://www.twiter.com/seutwiter) - seuemail@mail.com
- Distribuido sob licença. Veja `LICENÇA` para maiores informações.[https://github.com/machadodavid32/geek-git1.git](https://github.com/machadodavid32)
+ Distribuido sob licença. 
+ Veja `LICENÇA` para maiores informações.
+ 
+ [https://github.com/machadodavid32/geek-git1.git]
+(https://github.com/machadodavid32)
+
